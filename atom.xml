@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://f5ylw2.coding-pages.com</id>
+    <id>https://rinsunsama.github.io</id>
     <title>Rinsun</title>
-    <updated>2020-05-02T10:34:57.560Z</updated>
+    <updated>2020-05-02T11:13:40.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://f5ylw2.coding-pages.com"/>
-    <link rel="self" href="https://f5ylw2.coding-pages.com/atom.xml"/>
+    <link rel="alternate" href="https://rinsunsama.github.io"/>
+    <link rel="self" href="https://rinsunsama.github.io/atom.xml"/>
     <subtitle>烂笔头</subtitle>
-    <logo>https://f5ylw2.coding-pages.com/images/avatar.png</logo>
-    <icon>https://f5ylw2.coding-pages.com/favicon.ico</icon>
+    <logo>https://rinsunsama.github.io/images/avatar.png</logo>
+    <icon>https://rinsunsama.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Rinsun</rights>
     <entry>
         <title type="html"><![CDATA[Test]]></title>
-        <id>https://f5ylw2.coding-pages.com/post/test/</id>
-        <link href="https://f5ylw2.coding-pages.com/post/test/">
+        <id>https://rinsunsama.github.io/post/test/</id>
+        <link href="https://rinsunsama.github.io/post/test/">
         </link>
         <updated>2020-05-02T10:02:17.000Z</updated>
         <content type="html"><![CDATA[<p>Event</p>
@@ -22,8 +22,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://f5ylw2.coding-pages.com/post/hello-gridea/</id>
-        <link href="https://f5ylw2.coding-pages.com/post/hello-gridea/">
+        <id>https://rinsunsama.github.io/post/hello-gridea/</id>
+        <link href="https://rinsunsama.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
