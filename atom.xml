@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://f5ylw2.coding-pages.com</id>
-    <title>Rinsun2</title>
-    <updated>2020-05-02T10:32:33.356Z</updated>
+    <title>Rinsun</title>
+    <updated>2020-05-02T10:34:57.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://f5ylw2.coding-pages.com"/>
     <link rel="self" href="https://f5ylw2.coding-pages.com/atom.xml"/>
     <subtitle>烂笔头</subtitle>
     <logo>https://f5ylw2.coding-pages.com/images/avatar.png</logo>
     <icon>https://f5ylw2.coding-pages.com/favicon.ico</icon>
-    <rights>All rights reserved 2020, Rinsun2</rights>
+    <rights>All rights reserved 2020, Rinsun</rights>
     <entry>
         <title type="html"><![CDATA[Test]]></title>
         <id>https://f5ylw2.coding-pages.com/post/test/</id>
