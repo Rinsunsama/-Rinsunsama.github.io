@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://e.coding.net/rinsun/rinsun.git</id>
+    <id>https://mp8xmd.coding-pages.com/</id>
     <title>Gridea</title>
-    <updated>2020-05-02T08:50:19.457Z</updated>
+    <updated>2020-05-02T08:56:10.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://e.coding.net/rinsun/rinsun.git"/>
-    <link rel="self" href="https://e.coding.net/rinsun/rinsun.git/atom.xml"/>
+    <link rel="alternate" href="https://mp8xmd.coding-pages.com/"/>
+    <link rel="self" href="https://mp8xmd.coding-pages.com/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://e.coding.net/rinsun/rinsun.git/images/avatar.png</logo>
-    <icon>https://e.coding.net/rinsun/rinsun.git/favicon.ico</icon>
+    <logo>https://mp8xmd.coding-pages.com/images/avatar.png</logo>
+    <icon>https://mp8xmd.coding-pages.com/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://e.coding.net/rinsun/rinsun.git/post/hello-gridea/</id>
-        <link href="https://e.coding.net/rinsun/rinsun.git/post/hello-gridea/">
+        <id>https://mp8xmd.coding-pages.com/post/hello-gridea/</id>
+        <link href="https://mp8xmd.coding-pages.com/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
